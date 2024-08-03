@@ -9,9 +9,14 @@
 # testing
 /coverage
 
+# main
+/main/
+
 # next.js
 /.next/
+/*/.next
 /out/
+/*/out
 
 # production
 /build
